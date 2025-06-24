@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\ESTRUCTURA DE DATOS\semana05\obj\Debug\net9.0\semana05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\ESTRUCTURA DE DATOS\semana05\obj\Debug\net9.0\semana05.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\ESTRUCTURA DE DATOS\semana05\obj\Debug\net9.0\semana05.AssemblyInfo.cs
+C:\Users\USER\Documents\ESTRUCTURA DE DATOS\semana05\obj\Debug\net9.0\semana05.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\ESTRUCTURA DE DATOS\semana05\obj\Debug\net9.0\semana05.sourcelink.json
+C:\Users\USER\Documents\ESTRUCTURA DE DATOS\semana05\obj\Debug\net9.0\semana05.dll
+C:\Users\USER\Documents\ESTRUCTURA DE DATOS\semana05\obj\Debug\net9.0\refint\semana05.dll
+C:\Users\USER\Documents\ESTRUCTURA DE DATOS\semana05\obj\Debug\net9.0\semana05.pdb
+c:\Users\USER\Documents\ESTRUCTURA DE DATOS\semana05\bin\Debug\net9.0\semana05.exe
+C:\Users\USER\Documents\ESTRUCTURA DE DATOS\semana05\bin\Debug\net9.0\semana05.deps.json
+C:\Users\USER\Documents\ESTRUCTURA DE DATOS\semana05\bin\Debug\net9.0\semana05.runtimeconfig.json
+c:\Users\USER\Documents\ESTRUCTURA DE DATOS\semana05\bin\Debug\net9.0\semana05.dll
+c:\Users\USER\Documents\ESTRUCTURA DE DATOS\semana05\bin\Debug\net9.0\semana05.pdb
+C:\Users\USER\Documents\ESTRUCTURA DE DATOS\semana05\obj\Debug\net9.0\semana05.genruntimeconfig.cache
+C:\Users\USER\Documents\ESTRUCTURA DE DATOS\semana05\obj\Debug\net9.0\ref\semana05.dll
