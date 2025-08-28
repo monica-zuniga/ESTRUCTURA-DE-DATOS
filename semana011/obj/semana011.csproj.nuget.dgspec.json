@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Documents\\ESTRUCTURA DE DATOS\\semama11\\semama11.csproj": {}
+    "C:\\Users\\USER\\Documents\\ESTRUCTURA DE DATOS\\semana011\\semana011.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Documents\\ESTRUCTURA DE DATOS\\semama11\\semama11.csproj": {
+    "C:\\Users\\USER\\Documents\\ESTRUCTURA DE DATOS\\semana011\\semana011.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Documents\\ESTRUCTURA DE DATOS\\semama11\\semama11.csproj",
-        "projectName": "semama11",
-        "projectPath": "C:\\Users\\USER\\Documents\\ESTRUCTURA DE DATOS\\semama11\\semama11.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Documents\\ESTRUCTURA DE DATOS\\semana011\\semana011.csproj",
+        "projectName": "semana011",
+        "projectPath": "C:\\Users\\USER\\Documents\\ESTRUCTURA DE DATOS\\semana011\\semana011.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Documents\\ESTRUCTURA DE DATOS\\semama11\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Documents\\ESTRUCTURA DE DATOS\\semana011\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
